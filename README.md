@@ -3,6 +3,8 @@
 These are from nomadcoders. (https://github.com/nomadcoders/nooks)
 Just for practice.
 
+[⭕] useInput
+[⭕] useTabs
 [] useTitle : Update your document's title.
 [] useConfirmation : Prompt a confirmation before executing a function.
 [] useHover : Detect a hover on any React Element.
