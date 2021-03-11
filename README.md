@@ -5,7 +5,7 @@ Just for practice.
 
 [⭕] useInput
 [⭕] useTabs
-[] useTitle : Update your document's title.
+[⭕] useTitle : Update your document's title.
 [] useConfirmation : Prompt a confirmation before executing a function.
 [] useHover : Detect a hover on any React Element.
 [] useBeforeLeave : Execute a function when the mouse leaves the document.
