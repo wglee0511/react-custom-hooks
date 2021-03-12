@@ -12,6 +12,6 @@ Just for practice.
 - [⭕] usePreventLeave : Prompt the user for confirmation before leaving the page.
 - [⭕] useBeforeLeave : Execute a function when the mouse leaves the document.
 - [⭕] useFadeIn : Fade in any element.
-- [] useNetwork : Listen when the user goes online or offline.
+- [⭕] useNetwork : Listen when the user goes online or offline.
 - [] useScroll : Get X/Y coordinates of current position of the scroll.
 - [] useFullscreen : Make any element go Fullscreen
